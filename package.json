@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0",
-	"author": "Vanessa Montiel",
+	"author": {
+		"name": "Vanessa Montiel"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
