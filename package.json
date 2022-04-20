@@ -4,6 +4,7 @@
 	"author": {
 		"name": "Vanessa Montiel"
 	},
+	"description": "This project is for educational purposes only. Following FreeCodeCamps Backend and APIs curriculum and lessons.",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
