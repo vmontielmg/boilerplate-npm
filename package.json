@@ -5,7 +5,10 @@
 		"name": "Vanessa Montiel"
 	},
 	"description": "This project is for educational purposes only. Following FreeCodeCamps Backend and APIs curriculum and lessons.",
+	"keywords": ["freecodecamp", "study", "backend", "software engineer"],
+	"license": "MIT",
 	"dependencies": {
+		"moment": "2.10.2",
 		"express": "^4.17.3"
 	},
 	"main": "server.js",
